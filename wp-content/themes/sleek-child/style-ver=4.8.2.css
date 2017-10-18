@@ -1,0 +1,25 @@
+/*
+	Theme Name: Sleek Child
+	Theme URI: http://themeforest.net/item/sleek-responsive-creative-wordpress-blog-theme/9298728
+	Template: sleek
+	Version: 1.0
+	Description: Child Theme for Sleek
+	Author: korra.io
+	Author URI: http://korra.io/
+	Text Domain: sleek
+*/
+
+
+
+/*------------------------------------------------------------
+ * Theme customization starts here
+ *------------------------------------------------------------*/
+
+li {
+    margin-bottom: 2px;
+}
+
+
+.main-content--m-plus .article-single .post__content ul {
+    line-height: 1.3;
+}
